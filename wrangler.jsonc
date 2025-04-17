@@ -1,0 +1,15 @@
+{
+  "name": "vh-astrom",
+  "compatibility_date": "2025-03-31",
+  "assets": {
+    "directory": "./dist"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "vh-astro-d1",
+      "database_id": "08bdd93e-4ec4-48dc-a98b-24a4a842b434",
+      "migrations_dir": "./migrations"
+    }
+  ]
+}
